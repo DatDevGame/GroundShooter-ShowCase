@@ -1,0 +1,22 @@
+public enum StatType
+{
+    MaxHealth,
+    MovementSpeed,
+    RotationSpeed,
+    FireRate,
+    AttackSpeed,
+    AttackRange,
+    AttackDamage,
+    CritChance,
+    CritDamageMultiplier,
+    InstantKillChance,
+    DodgeChance,
+    DamageReduction,
+    ProjectileRadius,
+    ProjectileSpeed,
+    ProjectileQuantity,
+    ProjectileMaxDistance,
+    ProjectileMaxPenetration,
+    ProjectileMaxRefraction,
+    MagnetRange,
+}
